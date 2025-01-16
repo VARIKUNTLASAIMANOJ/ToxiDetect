@@ -1,7 +1,3 @@
-Here’s the updated README file without the license field:
-
----
-
 # ToxiDetect: Advanced Comment Toxicity Detection System
 
 **ToxiDetect** is a deep learning-powered solution for identifying and classifying toxic comments across multiple online platforms. By leveraging state-of-the-art natural language processing (NLP) models, ToxiDetect ensures safer and more inclusive digital spaces through accurate detection and classification of harmful content.
@@ -119,5 +115,3 @@ Here’s the updated README file without the license field:
 Under the guidance of **Prof. K. Manoj Sagar**.
 
 ---
-
-Would you like any other modifications?
