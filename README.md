@@ -106,7 +106,7 @@
 
 ## 👩‍💻 Contributors
 
-- Varikutla Sai Manoj
+- Varikuntla Sai Manoj
 - Sravya Vasa
 - Veeramalla Sai Charan
 - Vemula Sravani
