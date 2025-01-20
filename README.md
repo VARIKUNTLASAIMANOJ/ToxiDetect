@@ -106,11 +106,11 @@
 
 ## 👩‍💻 Contributors
 
-- Varikuntla Sai Manoj
-- Sravya Vasa
-- Veeramalla Sai Charan
-- Vemula Sravani
-- Vemuri Pranay
+- ***Varikuntla Sai Manoj***
+- ***Sravya Vasa***
+- ***Veeramalla Sai Charan***
+- ***Vemula Sravani***
+- ***Vemuri Pranay***
 
 Under the guidance of **Prof. K. Manoj Sagar**.
 
